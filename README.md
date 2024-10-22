@@ -13,7 +13,8 @@
 
 
 # 💫 About Me:
-🚀 Estudiante de ingenieria informatica en la Pucv. curzando el segundo año de esta carrera
+🚀 Estudiante de ingenieria informatica en la Pucv.
+
 
 
 
