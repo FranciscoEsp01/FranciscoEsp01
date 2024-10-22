@@ -52,8 +52,6 @@
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/_DHANOLA" target="_blank">
