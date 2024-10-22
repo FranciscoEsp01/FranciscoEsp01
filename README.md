@@ -56,7 +56,7 @@
 <a href="https://www.instagram.com/xopan._/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
+<a href="mailto:espinozafrancisco.v@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013628134596">
