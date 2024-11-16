@@ -81,6 +81,6 @@
 <a href="mailto:espinozafrancisco.v@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/https://https://www.linkedin.com/in/francisco-ignacio-espinoza-vasquez-3155b8336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-ignacio-espinoza-vasquez-3155b8336/" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/francisco-ignacio-espinoza-vasquez-3155b8336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-ignacio-espinoza-vasquez-3155b8336/" height="25" width="30" /></a>
 <p>
   
