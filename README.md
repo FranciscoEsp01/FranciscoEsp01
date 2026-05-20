@@ -39,6 +39,10 @@
 
 <br>
 
+- **Artificial Intelligence**:
+	![YOLOv8](https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40)
+<br>
+
 - **Softwares and Tools**:
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
