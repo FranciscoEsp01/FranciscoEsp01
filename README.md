@@ -40,6 +40,7 @@
 <br>
 
 - **Artificial Intelligence**:
+  
 	![YOLOv8](https://img.shields.io/badge/-YOLO-FFCC00?style=flat&logo=python&logoColor=white&size=40x40)
 <br>
 
