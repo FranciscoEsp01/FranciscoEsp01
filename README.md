@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-🚀 Estudiante de ingenieria informatica en la Pucv.
+🚀 Estudiante de Ingeniería Informática en la PUCV.
 
 
 
