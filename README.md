@@ -27,6 +27,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   	![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  	![PHP](https://camo.githubusercontent.com/cdd7ec2f505b7fe95c73f35eed03498c66c4705f2cd1a43c4a1af8089209329c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d4536453646413f7374796c653d666c61742d737175617265266c6f676f3d706870)
 
 <br>   
     
