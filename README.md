@@ -51,6 +51,7 @@
   	![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
   	![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
   	![postgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+  	![SQLite](https://camo.githubusercontent.com/f3c41f2ebf66a4f3fb9f7fa45f47d3fa5099d105bf0de185260af7e5a36155ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d2532333030334235373f6c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
 <br>
 
